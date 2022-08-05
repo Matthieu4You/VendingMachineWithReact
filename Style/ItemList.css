@@ -1,0 +1,9 @@
+.itemListContainer{
+    height: 800px;
+    width: 750px;
+    border-style: groove;
+}
+
+.itemListContainer .itemListItem{
+    display: inline-grid;
+}

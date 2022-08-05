@@ -1,0 +1,27 @@
+.messages{
+
+}
+
+.messages .messages-content{
+    width: border-box;
+    height: 80px;
+    text-align: center;
+    border: solid;
+
+    font-size: x-large;
+}
+
+.messages .messages-item{
+    display: inline-block;
+}
+
+.change{
+
+}
+
+.change .change-content{
+    width: border-box;
+    height: 200px;
+    padding-left: 30px;
+    border: solid;
+}
