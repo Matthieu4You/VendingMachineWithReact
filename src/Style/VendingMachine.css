@@ -1,0 +1,15 @@
+.VM{
+}
+
+.VM .itemList{
+    margin-top: 40px;
+    margin-left: 80px;
+    float: left;
+}
+
+.VM .map{
+    margin-right: 100px;
+    float: right;
+    display: inline-block;
+}
+
